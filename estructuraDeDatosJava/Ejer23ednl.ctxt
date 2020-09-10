@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ llenarArbol()
+comment1.params=x
+comment1.target=ED.EDL.ListaSE\ masPueblos(int)
+comment2.params=x\ a
+comment2.target=ED.EDL.ListaSE\ masPueblos(int,\ ED.EDNL.BinaryTree)
+numComments=3

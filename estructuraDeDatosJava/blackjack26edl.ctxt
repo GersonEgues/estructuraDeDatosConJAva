@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=jug
+comment0.target=blackjack26edl(Jugador[])
+comment1.params=
+comment1.target=void\ repartirCartas()
+comment2.params=
+comment2.target=ED.EDL.ListaSE\ verificarGanador()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nom\ val\ jqk\ c
+comment0.target=Carta(java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNobre()
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=java.lang.String\ getCarcater()
+comment4.params=
+comment4.target=boolean\ jqk()
+numComments=5

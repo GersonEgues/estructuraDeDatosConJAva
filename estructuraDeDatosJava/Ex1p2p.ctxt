@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=ED.EDL.ListaSE\ guia()
+comment2.params=a
+comment2.target=ED.EDL.ListaSE\ guia(ED.EDNL.BinaryTree)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaDETest()
+comment1.params=
+comment1.target=void\ testContains()
+comment2.params=
+comment2.target=void\ TestIndexOf()
+comment3.params=
+comment3.target=void\ testSize()
+comment4.params=
+comment4.target=void\ testRemoveT()
+numComments=5

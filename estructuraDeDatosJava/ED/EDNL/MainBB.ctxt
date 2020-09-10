@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainBB
+comment1.params=
+comment1.target=void\ mainn()
+comment2.params=
+comment2.target=ED.EDL.ListaSE\ inOrden()
+comment3.params=
+comment3.target=ED.EDL.ListaSE\ postOrden()
+comment4.params=
+comment4.target=ED.EDL.ListaSE\ preOrden()
+comment5.params=
+comment5.target=ED.EDL.ListaSE\ inOrdenDesc()
+comment6.params=dato
+comment6.target=boolean\ contains(java.lang.Integer)
+comment7.params=t
+comment7.target=java.lang.Integer\ remove(java.lang.Integer)
+numComments=8

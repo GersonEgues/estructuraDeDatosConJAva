@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ejer10edl()
+comment1.params=cadena
+comment1.target=java.lang.String\ cadenaExtendida(java.lang.String)
+comment2.params=c
+comment2.target=boolean\ vocalF(char)
+numComments=3

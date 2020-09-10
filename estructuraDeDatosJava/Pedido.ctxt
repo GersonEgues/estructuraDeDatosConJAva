@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=id\ zon\ plato
+comment0.target=Pedido(int,\ java.lang.String,\ Plato[])
+comment1.params=p
+comment1.target=int\ compareTo(Pedido)
+numComments=2

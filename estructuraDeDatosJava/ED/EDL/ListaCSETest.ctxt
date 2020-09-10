@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaCSETest()
+comment1.params=
+comment1.target=void\ testAdd()
+comment2.params=
+comment2.target=void\ testContains()
+comment3.params=
+comment3.target=void\ TestSize()
+comment4.params=
+comment4.target=void\ testRemoveIndex()
+comment5.params=
+comment5.target=void\ testRemoveDate()
+comment6.params=
+comment6.target=void\ testRemoveRange()
+comment7.params=
+comment7.target=void\ testSubList()
+numComments=8

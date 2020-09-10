@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nom\ dis
+comment0.target=Pueblo(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getDistancia()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=otro
+comment3.target=boolean\ equals(Pueblo)
+numComments=4

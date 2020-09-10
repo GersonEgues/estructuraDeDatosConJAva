@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nom\ id\ crupier
+comment0.target=Jugador(java.lang.String,\ int,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=boolean\ crupier()
+comment4.params=
+comment4.target=int\ puntos()
+comment5.params=c
+comment5.target=void\ addCarta(Carta)
+comment6.params=
+comment6.target=ED.EDL.ListaSE\ getCartas()
+numComments=7
